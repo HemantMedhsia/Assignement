@@ -28,3 +28,4 @@ wcwidth==0.2.13
 webencodings==0.5.1
 websocket-client==1.7.0
 wheel==0.43.0
+seaborn==0.13.2
