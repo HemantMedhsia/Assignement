@@ -27,7 +27,7 @@ This project is a Django-based web application that allows users to upload CSV f
 ## Technologies Used
 
 - **Backend**: Python, Django  
-- **Libraries**: pandas, numpy, matplotlib  
+- **Libraries**: pandas, numpy, matplotlib, seaborn 
 - **Frontend**: HTML, CSS (via Django templates)  
 
 ---
