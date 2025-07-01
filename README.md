@@ -1,4 +1,4 @@
-
+# Assignment ve3
 # Django CSV Analysis Web App
 
 This project is a Django-based web application that allows users to upload CSV files, perform data analysis using pandas and numpy, and visualize the results on a user-friendly web interface.
@@ -103,4 +103,8 @@ The repository includes a sample CSV file (`sample_data.csv`) for testing purpos
 ## Contact
 
 If you have any questions or need further assistance, feel free to contact me.
+
 this is added by vedansh tiwari.
+
+and this is added by me.
+
