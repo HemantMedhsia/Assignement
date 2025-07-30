@@ -3,7 +3,7 @@
 
 This project is a Django-based web application that allows users to upload CSV files, perform data analysis using pandas and numpy, and visualize the results on a user-friendly web interface.
 
-## Features
+## Features -->>
 
 - **File Upload**:  
   Users can upload CSV files for processing.
